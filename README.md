@@ -41,5 +41,5 @@ It predicts weather conditions using ML algorithms and displays real-time data i
 
 ## 🙋‍♀️ About Me
 
-Created with 💙 by **Manu**, passionate about AI and building meaningful tech for people.
+Created with 💙 by Manasa, passionate about AI and building meaningful tech for people.
 
