@@ -1,6 +1,4 @@
-# Weather-the-AM-way
- Weather Forecasting ML Model with Interactive Supaboard Dashboard Predicts weather conditions using machine learning algorithms, featuring an interactive Supaboard dashboard for real-time visualization.
-# 🌤️ Weather: The AM Way
+ # 🌤️ Weather: The AM Way
 
 A weather forecasting machine learning model with an interactive Supaboard dashboard.  
 It predicts weather conditions using ML algorithms and displays real-time data insights like temperature, humidity, wind speed, and more.
