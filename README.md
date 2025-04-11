@@ -36,6 +36,10 @@ It predicts weather conditions using ML algorithms and displays real-time data i
 
 4. Run the project  
    `python app.py` or your main file
+### 👉 Quick Demo
+ 
+Run the model directly in Colab:  
+[Run on Google Colab](https://colab.research.google.com/drive/1biGAsMtdcrWMKRwzBasQGDO8Q6Q1CzDe#scrollTo=W6Ff_HVDkhjQ)
 
 ---
 
