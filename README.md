@@ -45,5 +45,5 @@ Run the model directly in Colab:
 
 ## 🙋‍♀️ About US
 
-Created with 💙 by Manasa and Anish , passionate about AI and building meaningful tech for people.
+Created  with 💙 by Manasa and Anish [AM] , passionate about AI and building meaningful tech for people.
 
